@@ -1,0 +1,59 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Matemasie&display=swap');*/
+
+@font-face {
+    font-family:"matemasie-regular";
+    src: url(Fonts/Matemasie-Regular.ttf);
+}
+.matemasie{
+    font-family:"matemasie-regular" ;
+    font-weight: 400;
+    font-style: normal;
+}
+.matemasie-regular {
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+.bola{
+width: 100px;
+height:100px;
+border-radius: 50%;
+}
+.retangulo{
+width: 200px;
+height: 100px;
+}
+.quadrado{
+width: 100px;
+height: 100px;
+}
+.verde{
+    background-color: green;
+}
+.rosa{
+    background-color: pink;
+}
+.azul{
+    background-color: blue;
+}
+.rosa{
+    background-color: greenyellow;
+}
+.texto-azul{
+    color: blue
+}
+.margem-10{
+    margin: 100px 100px 100px 200px;
+}
+.margem-percentual{
+    margin: 50%;
+}
+.espacamento{
+    padding: 50%;
+}
+
+div > p{
+color:blueviolet;
+font-size: 30px;
+}
